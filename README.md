@@ -37,4 +37,5 @@ To run this project, you will need:
 * `student.txt` - Dynamically generated text file validating the I/O write and append operations.
 
 **Key Learnings**
+
 This project highlights clean coding practices, emphasizing the importance of anticipating user input errors and managing external resources (files) securely without memory leaks.
