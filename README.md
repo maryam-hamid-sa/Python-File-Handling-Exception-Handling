@@ -17,7 +17,7 @@ This repository features a comprehensive Python script demonstrating core compet
 To run this project, you will need:
 * **Python 3.x** installed on your system.
 
-**How to Run**
+****How to Run****
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/maryam-hamid-sa/Python-File-Handling-Exception-Handling.git
@@ -37,5 +37,4 @@ To run this project, you will need:
 * `student.txt` - Dynamically generated text file validating the I/O write and append operations.
 
 **Key Learnings**
-
 This project highlights clean coding practices, emphasizing the importance of anticipating user input errors and managing external resources (files) securely without memory leaks.
