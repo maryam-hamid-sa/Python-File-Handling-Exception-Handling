@@ -1,6 +1,8 @@
 # Python File & Exception Handling
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)     ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)        
+
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
 
 ##   Overview
